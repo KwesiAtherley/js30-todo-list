@@ -1,4 +1,4 @@
-The first project in my #js30 challenge. A small todo list app that covers the followin concepts -
+The first project in my #js30 challenge. A small todo list app that covers the following concepts -
 
 1. How to set up create-react-app
 2. Building react components
